@@ -1,0 +1,2 @@
+# python-beginner
+trainning python
